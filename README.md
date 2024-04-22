@@ -1,21 +1,18 @@
-# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="40px">, I'm <a href="https://achyutghosh.github.io/">Achyut</a> ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="40px">, I'm <a href="https://github.com/grulla79/">Sean(junho kim)</a> ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
 <img align='right' src="https://github.com/achyutghosh/achyutghosh/blob/master/gifs/people-at-work.gif" width="300">
-<h4>:fire: Passionate programmer | 🚀 Experience in ERP software.</h4>
-<h3>💼 Software Developer at <a href="https://www.ginesys.in/">Ginni System Ltd - Ginesys</a></h3>
+<h4>:fire: Passionate programmer | 🚀 I'm currently at Kakao Cloud edu-5</h4>
+<h3>💼 백엔드 개발자를 목표로 열심히 학습하고있습니다!</h3>
 
-## :envelope: Let's talk
-[![Website Badge](https://img.shields.io/badge/Website-0A79DF?style=flat-square&logo=google-chrome&logoColor=white)](https://achyutghosh.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/-achyutghosh06@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achyutghosh06@gmail.com)](mailto:achyutghosh06@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achyutghosh24/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/achyut06)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/me_achyut/)
+## :envelope: Contact to me
+[![Gmail Badge](https://img.shields.io/badge/-wnsho9826@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnsho9826@gmail.com)](mailto:wnsho9826@gmail.com)
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=본인주소)](https://velog.io/@grulla79/posts)
 
-## :computer: Currently playing with 
+
+## :computer: Currently Studying with 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="csharp" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45" />
+  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="csharp" width="45" height="45" />
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" alt="dotnet" width="45" height="45" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="javascript" width="45" height="45" />
 </p>
 <br>
 <!-- <div style="display:flex;gap:30px;flex-wrap:wrap;">
