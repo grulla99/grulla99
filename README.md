@@ -11,8 +11,8 @@
 ## :computer: Currently Studying with 
 <p align="left">
   <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="csharp" width="100" height="45" />
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" alt="dotnet" width="100" height="45" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="javascript" width="100" height="45" />
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" alt="dotnet" width="110" height="45" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="javascript" width="120" height="45" />
 </p>
 <br>
 <!-- <div style="display:flex;gap:30px;flex-wrap:wrap;">
