@@ -1,7 +1,7 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="40px">, I'm <a href="https://github.com/grulla79/">Sean(junho kim)</a> ! <!--<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">-->
 <img align='right' src="https://github.com/achyutghosh/achyutghosh/blob/master/gifs/people-at-work.gif" width="300">
 <h4>:fire: Passionate programmer | 🚀 I'm currently at Kakao Cloud edu-5</h4>
-<h3>💼 백엔드 개발자를 목표로 열심히 학습하고 있습니다!</h3>
+<h3>💼 풀스택 개발자를 목표로 열심히 학습하고 있습니다!</h3>
 
 ## :envelope: Contact to me
 [![Gmail Badge](https://img.shields.io/badge/-wnsho9826@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wnsho9826@gmail.com)](mailto:wnsho9826@gmail.com)
